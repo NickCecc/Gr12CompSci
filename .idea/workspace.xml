@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewJavaBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/DecisionStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/DecisionStructures_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/SalesTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/classObjects/package-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="32054fcc-5168-4332-9726-8b5d221041db" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28j6mMv9fAA8e3tsyqs0rX5woTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nickcecchin/IdeaProjects/NewJavaBasics/src/cecchin/classObjects",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cecchin/classObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhileLoops">
+    <configuration name="DecisionStructures_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.JavaBasics.DecisionStructures_2" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.JavaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.classObjects.Main" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.classObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.JavaBasics.WhileLoops" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.JavaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhileLoops" />
+        <item itemvalue="Application.DecisionStructures_2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="" />
+      <created>1651717806019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651717806019</updated>
+      <workItem from="1651717808381" duration="1686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
