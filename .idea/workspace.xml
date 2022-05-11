@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="JavaBasics">
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/SquareRectExample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/SquareRectExample/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/SquareRectExample/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/ArrayListsTeacherD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/ArraysD1Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/MethodsD1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/MethodsD1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/MethodsD1C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/StringBuilderExerciseSolutions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/JavaBasics/StringsExSolns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/OOPAssignment/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/OOPAssignment/Main.java" afterDir="false" />
+    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="JavaBasics First Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Temperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,15 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nickcecchin/IdeaProjects/NewJavaBasics/src/OOPAssignment&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nickcecchin/IdeaProjects/NewJavaBasics/src/OOPAssignment",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/OOPAssignment" />
@@ -72,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/cecchin/JavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cecchin.Inheritance.Main">
+  <component name="RunManager" selected="Application.cecchin.StaticKeyword.Main">
     <configuration name="DecisionStructures_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cecchin.JavaBasics.DecisionStructures_2" />
       <module name="NewJavaBasics" />
@@ -125,8 +109,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cecchin.StaticKeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.StaticKeyword.Main" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.StaticKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cecchin.StaticKeyword.Main" />
         <item itemvalue="Application.cecchin.Inheritance.Main" />
         <item itemvalue="Application.WhileLoops" />
         <item itemvalue="Application.DecisionStructures_2" />
@@ -148,6 +146,8 @@
       <workItem from="1652198608857" duration="3126000" />
       <workItem from="1652206320660" duration="338000" />
       <workItem from="1652281752372" duration="1000" />
+      <workItem from="1652282465614" duration="373000" />
+      <workItem from="1652285849600" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBasics">
       <created>1651719695808</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651719695808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JavaBasics First Commit">
+      <created>1652282524995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652282524995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +182,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaBasics" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaBasics" />
+    <MESSAGE value="JavaBasics First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBasics First Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
