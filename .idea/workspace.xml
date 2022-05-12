@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="JavaBasics First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/StaticKeyword/Temperature.java" afterDir="false" />
+    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="JavaBasics Static Keyword">
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Assignments/NickOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Assignments/NickScore2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,22 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/nickcecchin/IdeaProjects/NewJavaBasics/src/OOPAssignment",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nickcecchin/IdeaProjects/NewJavaBasics/src/OOPAssignment&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/OOPAssignment" />
       <recent name="$PROJECT_DIR$/src/cecchin/classObjects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/cecchin/Assignments" />
       <recent name="$PROJECT_DIR$/src/cecchin/JavaBasics" />
     </key>
   </component>
@@ -147,7 +146,8 @@
       <workItem from="1652206320660" duration="338000" />
       <workItem from="1652281752372" duration="1000" />
       <workItem from="1652282465614" duration="373000" />
-      <workItem from="1652285849600" duration="1252000" />
+      <workItem from="1652285849600" duration="1401000" />
+      <workItem from="1652322020600" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBasics">
       <created>1651719695808</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652282524995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JavaBasics Static Keyword">
+      <created>1652287562528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652287562528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaBasics" />
     <MESSAGE value="JavaBasics First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaBasics First Commit" />
+    <MESSAGE value="JavaBasics Static Keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBasics Static Keyword" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
