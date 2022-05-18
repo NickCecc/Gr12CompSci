@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="TwoDArraysPractice">
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Stacks/StackPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Stacks/Student.java" afterDir="false" />
+    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="Stack Practice">
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Queues/QueueExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Stacks/stackClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Stacks/stackMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,20 @@
       <recent name="$PROJECT_DIR$/src/cecchin/JavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackPractice">
+  <component name="RunManager" selected="Application.QueueExamples">
+    <configuration name="QueueExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.Queues.QueueExamples" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.Queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cecchin.Stacks.StackPractice" />
       <module name="NewJavaBasics" />
@@ -84,32 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.JavaBasics.WhileLoops" />
-      <module name="NewJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cecchin.JavaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cecchin.Inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.Inheritance.Main" />
-      <module name="NewJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cecchin.Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="cecchin.StaticKeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cecchin.StaticKeyword.Main" />
       <module name="NewJavaBasics" />
@@ -123,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.Stacks.stackMain" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.Stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueExamples" />
+        <item itemvalue="Application.stackMain" />
         <item itemvalue="Application.StackPractice" />
         <item itemvalue="Application.TwoDArraysEx" />
         <item itemvalue="Application.cecchin.StaticKeyword.Main" />
-        <item itemvalue="Application.cecchin.Inheritance.Main" />
-        <item itemvalue="Application.WhileLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,8 @@
       <workItem from="1652717922298" duration="132000" />
       <workItem from="1652718891176" duration="2325000" />
       <workItem from="1652749213137" duration="150000" />
-      <workItem from="1652803616238" duration="3532000" />
+      <workItem from="1652803616238" duration="3570000" />
+      <workItem from="1652808726444" duration="5399000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBasics">
       <created>1651719695808</created>
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652749279403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Stack Practice">
+      <created>1652807748263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652807748263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +225,8 @@
     <MESSAGE value="JavaBasics Static Keyword" />
     <MESSAGE value="JavaBasics NickOrder NickScore2" />
     <MESSAGE value="TwoDArraysPractice" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoDArraysPractice" />
+    <MESSAGE value="Stack Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack Practice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
