@@ -1,4 +1,4 @@
-package cecchin.Stacks;
+package cecchin.DataStructures.Stacks;
 
 public class stackMain {
     public stackMain() {

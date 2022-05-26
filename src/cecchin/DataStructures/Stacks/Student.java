@@ -1,4 +1,4 @@
-package cecchin.Stacks;
+package cecchin.DataStructures.Stacks;
 
 public class Student {
     private String name;

@@ -1,9 +1,8 @@
-package cecchin.Stacks;
+package cecchin.DataStructures.Stacks;
 
 import java.util.Iterator;
 import java.util.Deque;
 import java.util.ArrayDeque;
-import java.util.ArrayList;
 
 
 public class StackPractice {

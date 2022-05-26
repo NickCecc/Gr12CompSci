@@ -1,4 +1,4 @@
-package cecchin.Queues;
+package cecchin.DataStructures;
 
 import java.util.Iterator;
 import java.util.LinkedList;

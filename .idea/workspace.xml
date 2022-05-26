@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="QueueExamples">
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/student.java" afterDir="false" />
+    <list default="true" id="c79f1c7f-cef0-4554-8a9e-7131dfb13ca1" name="Changes" comment="Inheritance practice">
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Assignments/dataStructureMarks/DataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/Assignments/dataStructureMarks/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/Maps/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cecchin/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecchin/Queues/QueueExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/QueueExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecchin/Stacks/StackPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/Stacks/StackPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecchin/Stacks/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/Stacks/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecchin/Stacks/stackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/Stacks/stackClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecchin/Stacks/stackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecchin/DataStructures/Stacks/stackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,20 @@
       <recent name="$PROJECT_DIR$/src/cecchin/JavaBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.DataStructures">
+    <configuration name="DataStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.Assignments.dataStructureMarks.DataStructures" />
+      <module name="NewJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cecchin.Assignments.dataStructureMarks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cecchin.Inheritance.Main" />
       <module name="NewJavaBasics" />
@@ -75,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.Queues.QueueExamples" />
+    <configuration name="cecchin.DataStructures.Maps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.DataStructures.Maps.Main" />
       <module name="NewJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cecchin.Queues.*" />
+          <option name="PATTERN" value="cecchin.DataStructures.Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.Stacks.StackPractice" />
+    <configuration name="cecchin.DataStructures.Queues.QueueExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.DataStructures.Queues.QueueExamples" />
       <module name="NewJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cecchin.Stacks.*" />
+          <option name="PATTERN" value="cecchin.DataStructures.Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDArraysEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.Array2D.TwoDArraysEx" />
+    <configuration name="cecchin.DataStructures.Queues.Stacks.stackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cecchin.DataStructures.Queues.Stacks.stackMain" />
       <module name="NewJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cecchin.Array2D.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cecchin.Stacks.stackMain" />
-      <module name="NewJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cecchin.Stacks.*" />
+          <option name="PATTERN" value="cecchin.DataStructures.Queues.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataStructures" />
+        <item itemvalue="Application.cecchin.DataStructures.Maps.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.QueueExamples" />
-        <item itemvalue="Application.stackMain" />
-        <item itemvalue="Application.StackPractice" />
-        <item itemvalue="Application.TwoDArraysEx" />
+        <item itemvalue="Application.cecchin.DataStructures.Queues.QueueExamples" />
+        <item itemvalue="Application.cecchin.DataStructures.Queues.Stacks.stackMain" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +164,10 @@
       <workItem from="1652749213137" duration="150000" />
       <workItem from="1652803616238" duration="3570000" />
       <workItem from="1652808726444" duration="5532000" />
-      <workItem from="1652976068016" duration="3578000" />
+      <workItem from="1652976068016" duration="3629000" />
+      <workItem from="1653406965639" duration="2013000" />
+      <workItem from="1653575478583" duration="4012000" />
+      <workItem from="1653590104919" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBasics">
       <created>1651719695808</created>
@@ -213,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652895900944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Inheritance practice">
+      <created>1652997180589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652997180589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +250,8 @@
     <MESSAGE value="TwoDArraysPractice" />
     <MESSAGE value="Stack Practice" />
     <MESSAGE value="QueueExamples" />
-    <option name="LAST_COMMIT_MESSAGE" value="QueueExamples" />
+    <MESSAGE value="Inheritance practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance practice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

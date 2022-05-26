@@ -1,4 +1,4 @@
-package cecchin.Stacks;
+package cecchin.DataStructures.Stacks;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
